@@ -13,5 +13,5 @@ add
 spring5
 java1
 
-javascript
+javascript22
 c++

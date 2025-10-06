@@ -7,5 +7,3 @@ hello
 hello2
 
 git add .
-
-git 추가 푸시까지
